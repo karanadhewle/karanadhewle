@@ -14,7 +14,8 @@
 
 - 📫 How to reach me *karandhewle786@gmail.com*
 
-- 📄 Know about my experiences [Worked for an NGO named LiGHT Wardha as a Center Coordinator, Design team member in Newton School Coding Club BIT Wardha, Student Placement coordinator Mechanical Engineering Bajaj Institute of Technology Wardha](Worked for an NGO named LiGHT Wardha as a Center Coordinator, Design team member in Newton School Coding Club BIT Wardha, Student Placement coordinator Mechanical Engineering Bajaj Institute of Technology Wardha)
+- 📄 Know about my experiences [Worked for an NGO named LiGHT Wardha as a Center Coordinator, Design team member in Newton School Coding Club BIT Wardha, Student Placement coordinator Mechanical Engineering Bajaj Institute of Technology Wardha]
+- (Worked for an NGO named LiGHT Wardha as a Center Coordinator, Design team member in Newton School Coding Club BIT Wardha, Student Placement coordinator Mechanical Engineering Bajaj Institute of Technology Wardha)
 
 - ⚡ Fun fact *I love to learn new technologies.*
 
