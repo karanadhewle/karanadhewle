@@ -2,7 +2,7 @@
 <h3 align="center">As a Mechanical Enginerring student. I am dedicated to build new projects that are both efficient and user friendly. I am also interested in learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanadhewle&label=Profile%20views&color=0e75b6&style=flat" alt="karanadhewle" /> </p>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"</img>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanadhewle" alt="karanadhewle" /></a> </p>
 
